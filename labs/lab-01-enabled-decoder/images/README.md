@@ -1,9 +1,15 @@
-# Lab 1 verification images
+# Lab 1 — Images
 
-The full-resolution files are in the companion Lab 1 archive. Upload these five files here:
+Enabled decoder circuit diagram, functional simulation and FPGA hardware photographs.
 
-- `enabled-decoder-schematic.png` — Quartus gate-level schematic
-- `functional-simulation-waveforms.png` — functional simulation
-- `hardware-test-111-output-e.jpg` — enable high, selectors `11`
-- `hardware-test-100-output-b.jpg` — enable high, selectors `00`
-- `hardware-test-enable-low.jpg` — all outputs inactive when enable is low
+## Files
+
+| File | Description |
+| --- | --- |
+| [Block Diagram Lab1 CEG2136.png](Block%20Diagram%20Lab1%20CEG2136.png) | Decoder schematic. |
+| [Waveform Lab1 CEG2136.png](Waveform%20Lab1%20CEG2136.png) | Functional simulation. |
+| [Picture 1 Lab1 CEG2136.HEIC](Picture%201%20Lab1%20CEG2136.HEIC) | FPGA hardware photograph. |
+| [Picture 2 Lab1 CEG2136.HEIC](Picture%202%20Lab1%20CEG2136.HEIC) | FPGA hardware photograph. |
+| [Picture 3 Lab1 CEG2136.HEIC](Picture%203%20Lab1%20CEG2136.HEIC) | FPGA hardware photograph. |
+
+[Back to Lab 1 overview](../README.md) · [Read the report](../report/)

@@ -1,8 +1,13 @@
-# Lab 1 report
+# Lab 1 — Report
 
-The Lab 1 archive contains the original report in two editable/viewable formats, with student number redacted from the public-sharing copies:
+The report describes the design, implementation and results for the **Enabled 2-to-4 Decoder**.
 
-- `lab-01-enabled-decoder-report.pdf`
-- `lab-01-enabled-decoder-report.docx`
+**[Open the laboratory report](Lab%201%20Report%20CEG2136.pdf)**
 
-Upload both files here to make the full report accessible from GitHub.
+## Contents
+
+- Decoder truth table and gate-level design.
+- Simulation waveforms.
+- FPGA verification and conclusions.
+
+[Back to lab overview](../README.md) · [View images](../images/)

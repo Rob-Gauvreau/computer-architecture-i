@@ -1,7 +1,13 @@
-# Lab 3 report
+# Lab 3 — Report
 
-The complete organized Lab 3 ZIP contains:
-- `lab-03-4-bit-alu-report.pdf`
-- `lab-03-4-bit-alu-report.docx`
+The report describes the design, implementation and results for the **4-Bit Arithmetic Logic Unit**.
 
-Upload both into this folder to make the 12-page report available on GitHub. The student number was redacted from the public-sharing copies.
+**[Open the laboratory report](Lab%20Report%203%20CEG2136.pdf)**
+
+## Contents
+
+- Arithmetic, logic and shift circuit designs.
+- Integrated ALU and status flags.
+- Waveforms and top-level checker observations.
+
+[Back to lab overview](../README.md) · [View images](../images/)

@@ -1,10 +1,18 @@
-# Lab 4 report and references
+# Lab 4 — Report
 
-The organized Lab 4 ZIP contains:
+The report describes the design, implementation and results for the **CPU Control Unit**.
 
-- `report/lab-04-control-unit-report.pdf` and `.docx`
-- `references/control-unit-timing-table.pdf` and `.xls`
-- `references/lab-04-course-manual.pdf`
-- `notes/control-signal-equations-draft.docx`
+**[Open the laboratory report](Lab%20Report%204%20CEG2136.pdf)**
 
-The report cover and working draft are prepared for public sharing with the student number redacted.
+## Contents
+
+- Instruction timing and control-signal equations.
+- Register, ALU and bus-control diagrams.
+- Simulation observations and conclusions.
+
+## Supporting PDFs
+
+- [Control Table Lab 4 CEG2136.pdf](Control%20Table%20Lab%204%20CEG2136.pdf) — timing states and control signals.
+- [Lab 4 Manual.pdf](Lab%204%20Manual.pdf) — CPU architecture and experiment requirements.
+
+[Back to lab overview](../README.md)

@@ -1,23 +1,25 @@
 # CEG2136 — Computer Architecture I
 
-University of Ottawa | Spring/Summer 2024
+**University of Ottawa · Spring/Summer 2024**
 
-A collection of five course laboratories covering digital logic design, simulation, and FPGA-based implementation. The five lab projects cover combinational logic, sequential circuits, arithmetic logic, and CPU control.
+Five laboratory projects exploring digital circuit design, functional simulation and FPGA implementation. The work progresses from combinational logic to sequential counters, a 4-bit arithmetic logic unit and a CPU control unit.
 
-## Labs
+## Laboratories
 
-| Lab | Topic | Contents |
+| Lab | Topic | Focus |
 | --- | --- | --- |
-| [Lab 0](labs/lab-00-quartus-ii-full-adder/) | Quartus II introduction and 1-bit full adder | FPGA schematic, waveform, pin assignments, verification documentation |
-| [Lab 1](labs/lab-01-enabled-decoder/) | Simple logic design / enabled 2-to-4 decoder | Quartus gate-level schematic, waveform, Boolean logic, verification documentation |
-| [Lab 2](labs/lab-02-synchronous-counters/) | Synchronous sequential counters | JK flip-flop-based BCD, modulo-6, and cascaded modulo-60 counters |
-| [Lab 3](labs/lab-03-4-bit-alu/) | 4-bit arithmetic logic unit | Hierarchical arithmetic, logic and shift functions; top-level verification |
-| [Lab 4](labs/lab-04-cpu-control-unit/) | Hardwired CPU control unit | Instruction decoding, timing, register operations, memory commands and control-bus selection |
+| [Lab 0](labs/lab-00-quartus-ii-full-adder/) | 1-Bit Full Adder | Boolean logic and FPGA verification |
+| [Lab 1](labs/lab-01-enabled-decoder/) | Enabled 2-to-4 Decoder | Combinational logic, truth tables and FPGA testing |
+| [Lab 2](labs/lab-02-synchronous-counters/) | Synchronous Counters | JK flip-flops and modulo-10, modulo-6 and modulo-60 counters |
+| [Lab 3](labs/lab-03-4-bit-alu/) | 4-Bit Arithmetic Logic Unit | Arithmetic, logic, shifts and status flags |
+| [Lab 4](labs/lab-04-cpu-control-unit/) | CPU Control Unit | Instruction decoding, register controls and timing |
 
-## Organization
+## Repository organization
 
-Each lab has a technical README and all available editable Quartus source files. Images and reports are organized in corresponding folders when available; binary files may need to be uploaded manually. Disposable Quartus build artifacts are excluded.
+Each lab has an overview and supporting folders:
 
-## Academic context
+- **`quartus/`** — Quartus project files, schematics and waveform sources.
+- **`images/`** — circuit screenshots, simulated waveforms and hardware photographs where included.
+- **`report/`** — laboratory report and related reference PDFs.
 
-These are coursework materials archived for documentation and portfolio purposes. Hardware and simulation results are documented in the individual laboratory reports and README files.
+Open a lab to explore its design, results and documentation.
