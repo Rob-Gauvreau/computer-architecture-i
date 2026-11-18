@@ -1,0 +1,5 @@
+# Keep legacy Quartus editor files byte-for-byte stable.
+*.bdf -text
+*.vwf -text
+*.qpf -text
+*.qsf -text

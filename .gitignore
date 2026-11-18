@@ -1,0 +1,24 @@
+# Quartus-generated build/cache files
+**/db/
+**/incremental_db/
+**/output_files/
+**/simulation/modelsim/
+**/*.qws
+**/*.bak
+**/*.rpt
+**/*.smsg
+**/*.done
+**/*.sof
+**/*.pof
+**/*.jic
+**/*.qdb
+**/*.pin
+**/*.fit.summary
+
+# Editor and operating-system metadata
+.DS_Store
+Thumbs.db
+__MACOSX/
+._*
+*.swp
+*~
