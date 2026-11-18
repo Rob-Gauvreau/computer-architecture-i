@@ -35,7 +35,7 @@ The submitted report documents agreement between theoretical and experimental fu
 | `(1, 1, 0)` | `(0, 1)` |
 | `(1, 1, 1)` | `(1, 1)` |
 
-The original screenshot evidence, hardware photographs, and PDF report are organized in the downloadable Lab 0 archive. Their binary uploads to this repository are still pending.
+The [images folder](images/) contains the schematic, waveform, compilation screenshot and FPGA hardware photographs. The [lab report](report/) provides the complete design and verification discussion.
 
 ## Project files
 
