@@ -2,7 +2,7 @@
 
 University of Ottawa | Spring/Summer 2024
 
-A collection of five course laboratories covering digital logic design, simulation, and FPGA-based implementation. Labs are added as project sources and documentation become available.
+A collection of five course laboratories covering digital logic design, simulation, and FPGA-based implementation. The five lab projects cover combinational logic, sequential circuits, arithmetic logic, and CPU control.
 
 ## Labs
 
@@ -12,6 +12,7 @@ A collection of five course laboratories covering digital logic design, simulati
 | [Lab 1](labs/lab-01-enabled-decoder/) | Simple logic design / enabled 2-to-4 decoder | Quartus gate-level schematic, waveform, Boolean logic, verification documentation |
 | [Lab 2](labs/lab-02-synchronous-counters/) | Synchronous sequential counters | JK flip-flop-based BCD, modulo-6, and cascaded modulo-60 counters |
 | [Lab 3](labs/lab-03-4-bit-alu/) | 4-bit arithmetic logic unit | Hierarchical arithmetic, logic and shift functions; top-level verification |
+| [Lab 4](labs/lab-04-cpu-control-unit/) | Hardwired CPU control unit | Instruction decoding, timing, register operations, memory commands and control-bus selection |
 
 ## Organization
 
