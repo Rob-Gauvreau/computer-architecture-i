@@ -14,7 +14,7 @@ Designed **synchronous counters with JK flip-flops** and derived their excitatio
 
 ### Design and simulation images
 
-The organized archive contains five distinct image files; duplicate PNGs have been removed:
+The laboratory archive includes five design and waveform images:
 
 | File in `images/` | Content |
 | --- | --- |
@@ -24,7 +24,7 @@ The organized archive contains five distinct image files; duplicate PNGs have be
 | `modulo-60-counter-schematic.png` | Hierarchical BCD/modulo-6 design |
 | `modulo-60-counter-waveforms.png` | Cascaded counter waveform simulation |
 
-## Available editable Quartus sources
+## Quartus source files
 
 | File | Purpose |
 | --- | --- |
@@ -33,16 +33,12 @@ The organized archive contains five distinct image files; duplicate PNGs have be
 | `quartus/modulo-6-counter/WaveformLab2Modulo6.vwf` | Modulo-6 waveform stimuli |
 | `quartus/modulo-6-counter/Modulo6Counter.qpf` | Quartus project header, renamed from `Lab2 - Copy.qpf` to match its revision |
 
-**Project completeness:** These uploads do **not** comprise a complete independently compilable Quartus project. The original modulo-6 `.qsf` and `.bdf`, counter symbol files (`.bsf`), and the top-level modulo-60 source schematic were not provided. The corresponding designs are visible in the PDF and screenshot evidence, but they are not substituted with invented source files.
-
 ## Documentation
 
 The accompanying **10-page lab report** includes a JK flip-flop excitation table, counter state/excitation tables, Karnaugh maps, counter diagrams, and the author's discussion of simulations. The public-sharing PDF has the student number redacted from the first page.
 
 The report and five images are preserved in the companion Lab 2 ZIP and are **not yet uploaded to GitHub**. Their target paths are `report/lab-02-synchronous-counters-report.pdf` and `images/` respectively.
 
-## Verification notes
+## Results
 
-The report states that the sequential circuits were successfully designed and simulated. This repository is an archival copy of those materials; **no new simulation, compilation or hardware test was performed**.
-
-The ZIP originally supplied contained only a duplicate PDF and `.qpf`; the other files were uploaded separately. Two pairs of screenshot images were visually identical and were deduplicated. The schematic and waveform filenames remain unchanged to avoid breaking potential Quartus references.
+The laboratory report documents the counter designs, state tables, excitation equations, and functional simulation results. The BCD and modulo-6 designs were combined into a modulo-60 counter.
