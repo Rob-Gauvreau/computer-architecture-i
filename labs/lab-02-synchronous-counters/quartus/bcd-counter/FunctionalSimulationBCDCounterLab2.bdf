@@ -997,7 +997,8 @@ applicable agreement for further details.
 	(pt 768 424)
 	(pt 768 440)
 )
-(connector	(pt 768 440)
+(connector
+	(pt 768 440)
 	(pt 768 472)
 )
 (connector
