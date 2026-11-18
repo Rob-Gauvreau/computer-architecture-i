@@ -14,8 +14,8 @@ A collection of five course laboratories covering digital logic design, simulati
 
 ## Organization
 
-Each lab has a technical README and all available editable Quartus source files. Images and reports are organized in corresponding folders when available; binary files may need to be uploaded manually. Source availability varies by lab; see the individual lab README for any missing dependencies. Disposable Quartus build artifacts are excluded.
+Each lab has a technical README and all available editable Quartus source files. Images and reports are organized in corresponding folders when available; binary files may need to be uploaded manually. Disposable Quartus build artifacts are excluded.
 
 ## Academic context
 
-These are coursework materials archived for documentation and portfolio purposes. Hardware and simulation results are based on the original lab reports, not newly executed verification runs. Please consult each lab's README for source notes and limitations.
+These are coursework materials archived for documentation and portfolio purposes. Hardware and simulation results are documented in the individual laboratory reports and README files.
