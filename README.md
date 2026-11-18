@@ -11,6 +11,7 @@ A collection of five course laboratories covering digital logic design, simulati
 | [Lab 0](labs/lab-00-quartus-ii-full-adder/) | Quartus II introduction and 1-bit full adder | FPGA schematic, waveform, pin assignments, verification documentation |
 | [Lab 1](labs/lab-01-enabled-decoder/) | Simple logic design / enabled 2-to-4 decoder | Quartus gate-level schematic, waveform, Boolean logic, verification documentation |
 | [Lab 2](labs/lab-02-synchronous-counters/) | Synchronous sequential counters | JK flip-flop-based BCD, modulo-6, and cascaded modulo-60 counters |
+| [Lab 3](labs/lab-03-4-bit-alu/) | 4-bit arithmetic logic unit | Hierarchical arithmetic, logic and shift functions; top-level verification |
 
 ## Organization
 
